@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Graduaded from [IUT Cachan](https://www.iut-cachan.universite-paris-saclay.fr/)
+
+🦊 [GitLab profile](https://gitlab.com/PierreVerbe)
+
 <!--
 **PierreVerbe/PierreVerbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
