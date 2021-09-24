@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Graduaded from [IUT Cachan](https://www.iut-cachan.universite-paris-saclay.fr/)
-
-🦊 [GitLab profile](https://gitlab.com/PierreVerbe)
+- 👨‍🎓 Graduaded from [IUT Cachan](https://www.iut-cachan.universite-paris-saclay.fr/) in 2018
+- 👨‍🎓 Graduaded from [ISEP](https://www.isep.fr/) in 2021
+- 🔭 I’m currently working on big data system
+- 🦊 [My GitLab profile](https://gitlab.com/PierreVerbe)
 
 <!--
 **PierreVerbe/PierreVerbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
